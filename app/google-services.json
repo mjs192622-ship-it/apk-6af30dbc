@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "143278939288",
+        "project_id": "inkfinity-ec113",
+        "storage_bucket": "inkfinity-ec113.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:143278939288:android:3bf01c884979ad885a84ed",
+                "android_client_info": {
+                    "package_name": "com.inkfinity.webnovels"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "143278939288-c0jal0o2mr3d6g9vhqcn7dp5mnlmdh0r.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyABSavVitVB9HL5P4LvaU6mPHLK2A_ZPsI"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "143278939288-c0jal0o2mr3d6g9vhqcn7dp5mnlmdh0r.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
